@@ -2,7 +2,7 @@
     "name": "dnafactory/mage2-devtools",
     "description": "",
     "require": {
-        "php": "^7.0|^7.1",
+        "php": "^7.0|^7.1|^7.2",
         "msp/devtools" : "*",
 
         "magento/magento-composer-installer": "*"
