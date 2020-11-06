@@ -1,6 +1,7 @@
 {
     "name": "dnafactory/mage2-devtools",
-    "description": "",
+    "description": "Modulo DevTools che estende MSP DevTools su Magento2",
+    "keywords": ["Magento2"],
     "require": {
         "php": "^7.0|^7.1|^7.2",
         "msp/devtools" : "*",
