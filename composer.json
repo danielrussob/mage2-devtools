@@ -4,7 +4,7 @@
     "keywords": ["Magento2"],
     "require": {
         "msp/devtools" : "*",
-        "magento/project-community-edition": "2.4.*"
+        "magento/magento2-base": "2.4.*"
     },
     "authors": [
         {
